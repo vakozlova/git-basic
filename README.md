@@ -9,7 +9,7 @@
 
 1. Клонировать репозиторий на локальный компьютер с помощью команды: 
 ```bash
-git clone https://github.com/valeria-kozlova/git-basic
+git clone https://github.com/vakozlova/git-basic
 ```
 2. Добавить файл `Potter.txt` в ветку `master` с первоначальным списком книг.
 3. Создать ветку `feature` и изменить содержимое файла `Potter.txt`.
